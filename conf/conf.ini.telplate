@@ -1,0 +1,14 @@
+All_port=9080
+UseCenterHost=http://localhost:8001/
+DATABASE_TYPE=mysql
+SQL_CONNECT=user:pass@tcp(localhost:3306)/db?charset=utf8
+THIRD_SQL_CONNECT=wei:pass@tcp(localhost:3306)/db?charset=utf8
+GLOBAL_PAGESIZE=10
+GLOBAL_PAGENUM=1
+GLOBAL_TOP=5
+CSV_CODING=GBK
+TASK_DEFAULT_PRIORITY=100
+PromotionProductPriceRange=10
+SAMPLE_LIB_DIR=/home/www/sz_iptv/lib/live_sample/
+SAMPLE_LIB_DIR_DELETED=/home/www/sz_iptv/lib/live_sample/deleted/
+CACHE_CLEAN_MINUTE=20

@@ -1,0 +1,15 @@
+data
+test_app
+*.log
+*.db
+*.sqlite
+.idea
+*.mindnode
+*.xlsx
+.vscode
+main_app
+conf.ini
+nohup.out
+git
+.DS_Store
+mjytest.go
